@@ -163,6 +163,9 @@ The given namespace `devbi` is observed and a group with the same name `devbi` i
 <img src="images/3-image-15.png">
 
 
-## Released By
-
-<img src="images/authors.png" height="200px">
+### Authors
+- Jeya Gandhi Rajan M
+- Vijaya Bhaskar R Siddareddi
+- Vijay Sukthankar (Squad Leader)
+**Hybrid-Cloud Squad**
+**GSI Labs**
