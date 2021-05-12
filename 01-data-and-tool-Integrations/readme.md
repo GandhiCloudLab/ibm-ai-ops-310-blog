@@ -163,6 +163,6 @@ The given namespace `devbi` is observed and a group with the same name `devbi` i
 <img src="images/3-image-15.png">
 
 
-## Authors
+## Released By
 
-<img src="images/authors.png" height="150px">
+<img src="images/authors.png" height="200px">
