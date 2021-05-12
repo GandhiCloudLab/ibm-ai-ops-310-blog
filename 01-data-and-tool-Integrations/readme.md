@@ -161,3 +161,7 @@ Refer KC [here](https://www.ibm.com/docs/en/cloud-paks/cp-waiops/3.1.0?topic=int
 The given namespace `devbi` is observed and a group with the same name `devbi` is created. 
 
 <img src="images/3-image-15.png">
+
+
+
+<img src="images/authors.png">
