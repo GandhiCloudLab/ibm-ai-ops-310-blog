@@ -57,12 +57,7 @@ The event mangaer gateway should have been created.
 
 ## 2. Exposing an ObjectServer in Event Manager
 
-This article explain about how to expose the ObjectServer of the Event Manager outside cluster, which helps to push events to event manager through CURL.
-
-The article is based on the the following
-
-- RedHat OpenShift 4.6 on IBM Cloud (ROKS)
-- Watson AI-Ops 3.1.0
+This section explain about how to expose the ObjectServer of the Event Manager outside cluster, which helps to push events to event manager through CURL.
 
 ### Overview
 
@@ -180,6 +175,7 @@ The `ratings_pod_down.json` down file is avilable [here](./files/ratings_pod_dow
 Exposing an ObjectServer port in a Netcool® Operations Insight on Red Hat® OpenShift® deployment
 https://www.ibm.com/support/knowledgecenter/SSTPTP_1.6.3/com.ibm.netcool_ops.doc/soc/integration/task/expose_objs_port.html
 
+Install the Event Manager Gateway with the OpenShift console
 
 https://www.ibm.com/docs/en/cloud-paks/cp-waiops/3.1.0?topic=installing-post-installation-tasks#install-emg-console
 

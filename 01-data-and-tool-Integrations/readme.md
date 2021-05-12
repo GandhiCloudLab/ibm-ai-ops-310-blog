@@ -24,6 +24,7 @@ This section explains about how to setup Humio Integration in Watson AIOps.
 
 3. Enter the below field values
 
+```
 - Name 
 - Humio sevice URL
 
@@ -31,6 +32,7 @@ This section explains about how to setup Humio Integration in Watson AIOps.
 
 - API Key of the Humio
 - Keep `Data flow` off
+```
 
 4. Click on `Integrate` 
 
@@ -46,11 +48,6 @@ This section explains about how to setup Humio Integration in Watson AIOps.
 ## 2. Setup ServiceNow Integration
 
 This section explains about how to setup ServiceNow Integration in Watson AIOps.
-
-The article is based on the the following.
-
-- RedHat OpenShift 4.6 on IBM Cloud (ROKS)
-- Watson AI-Ops 3.1.0
 
 1. Goto the page `Data and tool integrations`
 
@@ -94,7 +91,7 @@ This section explains about how to setup Kubernetes Integration in Watson AIOps.
 
 2. In the `Kubernetes` card click on the `Add Integration` link
 
-<img src="images/image-10.png">
+<img src="images/3-image-10.png">
 
 3. Enter values for highlighed field and click on `Integrate`
 

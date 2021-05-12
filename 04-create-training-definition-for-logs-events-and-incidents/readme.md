@@ -58,8 +58,7 @@ The training definition is created.
 
 ## 2. Create Training Definition for Event Grouping
 
-This article explains about how to Create Training Definition for Event Grouping in Watson AIOps.
-
+This section explains about how to Create Training Definition for Event Grouping in Watson AIOps.
 
 1. Goto the page `Data and Model Management`
 

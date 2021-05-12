@@ -105,7 +105,7 @@ export BROKER=$(oc get routes strimzi-cluster-kafka-bootstrap -o=jsonpath='{.sta
 kafkacat $SEC -b $BROKER -P -t alerts-noi-1000-1000 -l ./02-noi-alerts.json
 ```
 
-To know more about how to access kafka topics refer here [800-accessing-kafka-topics](../800-accessing-kafka-topics)
+To know more about how to access kafka topics refer here [accessing-kafka-topics](https://github.com/ibm-gsi-ecosystem/watson-ai-ops-guide/tree/master/420-accessing-kafka-topics)
 
 ### Enable Data flow for Training
 

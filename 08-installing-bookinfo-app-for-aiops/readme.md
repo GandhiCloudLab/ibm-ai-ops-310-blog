@@ -8,7 +8,7 @@ The article explains about the following for Watson AIOps.
 
 The article is based on the the following
 
-- RedHat OpenShift 4.6 on IBM Cloud (ROKS)
+- IKS (IBM Kubernetes Service)
 - Watson AI-Ops 3.1.0
 
 
@@ -111,7 +111,7 @@ The `./humio-helm-charts/charts/humio-fluentbit/values.yaml` should be updated a
         Path             /var/log/containers/*bookinfo*.log
 ```
 
-## 3. Install fluentbit
+### 3. Install fluentbit
 
 #### 1. Create Namesapce
 

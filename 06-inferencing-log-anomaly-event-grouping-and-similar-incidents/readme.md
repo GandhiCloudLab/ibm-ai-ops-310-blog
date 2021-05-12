@@ -1,4 +1,4 @@
-# Inferencing Inferencing Log Anomaly, Event Grouping and Similar Incidents
+# Inferencing Log Anomaly, Event Grouping and Similar Incidents
 
 This article explains about how to do Inferencing of Log Amomaly Detection, Event grouping service and Similar incident service in Watson AIOps.
 
