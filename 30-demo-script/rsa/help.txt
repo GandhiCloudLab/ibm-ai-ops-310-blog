@@ -1,0 +1,48 @@
+ssh-keygen -t rsa
+
+
+============================================================ ----->
+Jeyas-MacBook-Pro:rsa jeyagandhi$ ssh-keygen -t rsa
+Generating public/private rsa key pair.
+Enter file in which to save the key (/Users/jeyagandhi/.ssh/id_rsa):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /Users/jeyagandhi/.ssh/id_rsa.
+Your public key has been saved in /Users/jeyagandhi/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:pQWthmlOzNLDGgJZL8Sa2GRI0mzD/x0/afKz+/qZwKE jeyagandhi@Jeyas-MacBook-Pro.local
+The key's randomart image is:
++---[RSA 3072]----+
+|oXo     ..       |
+|=.X.     ..      |
+|.O.o.= o .o      |
+|+ o.+ @ ++       |
+|   . O +So..     |
+|    . o oo=.     |
+|        E+o.     |
+|          o. o   |
+|          +B=    |
++----[SHA256]-----+
+Jeyas-MacBook-Pro:rsa jeyagandhi$
+============================================================
+
+
+ssh-copy-id -i /Users/jeyagandhi/.ssh/id_rsa.pub scadmin@1.1.1.1
+
+
+============================================================ ----->
+
+Jeyas-MacBook-Pro:rsa jeyagandhi$ ssh-copy-id -i /Users/jeyagandhi/.ssh/id_rsa.pub scadmin@1.1.1.1
+/usr/bin/ssh-copy-id: INFO: Source of key(s) to be installed: "/Users/jeyagandhi/.ssh/id_rsa.pub"
+/usr/bin/ssh-copy-id: INFO: attempting to log in with the new key(s), to filter out any that are already installed
+/usr/bin/ssh-copy-id: INFO: 1 key(s) remain to be installed -- if you are prompted now it is to install the new keys
+scadmin@1.1.1.1's password:
+
+Number of key(s) added:        1
+
+Now try logging into the machine, with:   "ssh 'scadmin@1.1.1.1'"
+and check to make sure that only the key(s) you wanted were added.
+
+Jeyas-MacBook-Pro:rsa jeyagandhi$
+
+============================================================
