@@ -167,5 +167,7 @@ The given namespace `devbi` is observed and a group with the same name `devbi` i
 - Jeya Gandhi Rajan M
 - Vijaya Bhaskar R Siddareddi
 - Vijay Sukthankar (Squad Leader)
+
 **Hybrid-Cloud Squad**
+
 **GSI Labs**
