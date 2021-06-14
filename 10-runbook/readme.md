@@ -23,7 +23,7 @@ In the event manager click on `Automation --> Runbook`
 
 <img src="images/image-11.png">
 
-We are going to create a Runbook which has some automation scripts.
+Let us create a Runbook which has some automation scripts.
 
 Click on `Automation --> New Automation`
 
